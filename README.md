@@ -29,7 +29,7 @@ and that's ***bold italic***
   - faire ça aussi 
     - mais ça aussi 
 
-  - 19897\. was a great number
+  - 19897\. was a great number. 
     ![Tux, the Linux mascot](/assets/images/tux.png)
   - close the file 
 
