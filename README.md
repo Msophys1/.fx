@@ -30,7 +30,6 @@ and that's ***bold italic***
     - mais ça aussi 
 
   - 19897\. was a great number
-    ![Tux, the Linux mascot](/assets/images/tux.png)
   - close the file 
 
 
